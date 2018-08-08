@@ -5,7 +5,7 @@ An experimental React Native module to use CA Technologies MAS SDK.
 
 ## Getting started
 
-`$ npm install react-native-mas --save`
+`$ npm install "git+https://github.com/tbenr/react-native-mas.git" --save`
 
 ### Mostly automatic installation
 
