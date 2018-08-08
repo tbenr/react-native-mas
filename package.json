@@ -1,0 +1,18 @@
+
+{
+  "name": "react-native-mas",
+  "version": "1.0.0",
+  "description": "An experimental React Native module to use CA Technologies MAS SDK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "",
+  "license": "",
+  "peerDependencies": {
+    "react-native": "0.56.0"
+  }
+}
